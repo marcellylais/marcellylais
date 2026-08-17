@@ -30,7 +30,13 @@
 - 📅 **[Space Booking Manager](https://github.com/marcellylais/c-space-booking-manager)** — Sistema em C para controle de reservas de espaço comum em condomínios.
 - 🏋️ **[FitManager — Sistema de Gestão de Academia](https://github.com/Gb-dls/sistema-academia-poo)** *(projeto em equipe)* — Sistema em Java para controle de alunos, planos, matrículas e pagamentos.
 
-## 🐍 Contribuições
+## 👾 Pac-Man das minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcellylais/marcellylais/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcellylais/marcellylais/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcellylais/marcellylais/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ### 🌐 Redes sociais
