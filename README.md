@@ -24,10 +24,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📌 Projetos em destaque
+### 📌 Projetos em destaque
 
-<p align="left"> <a href="https://github.com/marcellylais/cpl2-binary-calculator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcellylais&repo=cpl2-binary-calculator&theme=tokyonight" alt="Calculadora Aritmética Binária" /> </a>
-<a href="https://github.com/marcellylais/c-space-booking-manager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcellylais&repo=c-space-booking-manager&theme=tokyonight" alt="Space Booking Manager" /> </a> </p> <p align="left"> <a href="https://github.com/Gb-dls/sistema-academia-poo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gb-dls&repo=sistema-academia-poo&theme=tokyonight" alt="FitManager - Sistema de Gestão de Academia (trabalho em equipe)" /> </a> </p>
+- 🔢 **[Calculadora Aritmética Binária (Complemento a 2)](https://github.com/marcellylais/cpl2-binary-calculator)** — Programa em C para soma/subtração binária de 8 bits com conversão para decimal e hexadecimal.
+- 📅 **[Space Booking Manager](https://github.com/marcellylais/c-space-booking-manager)** — Sistema em C para controle de reservas de espaço comum em condomínios.
+- 🏋️ **[FitManager — Sistema de Gestão de Academia](https://github.com/Gb-dls/sistema-academia-poo)** *(projeto em equipe)* — Sistema em Java para controle de alunos, planos, matrículas e pagamentos.
+
+## 🐍 Contribuições
+
 
 ### 🌐 Redes sociais
 
