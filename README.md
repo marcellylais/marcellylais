@@ -1,10 +1,4 @@
-<h1 align="center">Olá, eu sou a Marcelly 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Bem-vindo(a)+ao+meu+perfil!;Desenvolvedora+%7C+Aprendendo+sempre;Feito+com+%E2%9D%A4+e+muito+caf%C3%A9" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Olá, eu sou a Marcelly 👋</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello+Word!+My+name+is+Marcelly." alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcellylais&label=Visualizações&color=36BCF7&style=flat" alt="visitor badge" /> </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marcellylais&label=Visualizações&color=36BCF7&style=flat" alt="visitor badge" />
