@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=1500&pause=500&color=8A2BE2&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Hello+World!;My+name+is+Marcelly" alt="Typing SVG" />
+    <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=1500&pause=500&color=8A2BE2&center=true&vCenter=true&multiline=true&width=450&height=100&lines=Hello+World!;My+name+is+Marcelly!" alt="Typing SVG" />
   </a>
   <img align="center" src="./giphy.gif" width="130" alt="Gif animado" />
 </p>
@@ -24,15 +24,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 Estatísticas do GitHub
+## 📌 Projetos em destaque
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcellylais&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcellylais&theme=tokyonight" alt="GitHub streak" />
-</p>
+<p align="left"> <a href="https://github.com/marcellylais/cpl2-binary-calculator"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcellylais&repo=cpl2-binary-calculator&theme=tokyonight" alt="Calculadora Aritmética Binária" /> </a>
+<a href="https://github.com/marcellylais/c-space-booking-manager"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcellylais&repo=c-space-booking-manager&theme=tokyonight" alt="Space Booking Manager" /> </a> </p> <p align="left"> <a href="https://github.com/Gb-dls/sistema-academia-poo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gb-dls&repo=sistema-academia-poo&theme=tokyonight" alt="FitManager - Sistema de Gestão de Academia (trabalho em equipe)" /> </a> </p>
 
 ### 🌐 Redes sociais
 
