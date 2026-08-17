@@ -1,12 +1,14 @@
-<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hello+Word!+My+name+is+Marcelly." alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcellylais&label=Visualizações&color=8A2BE2&style=flat" alt="visitor badge" /> </p>
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hello+Word!+My+name+is+Marcelly." alt="Typing SVG" /> </a> </p>
 ---
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente estou trabalhando em: *[coloque seu projeto atual]*
-- 🌱 Estou aprendendo: *[tecnologia/curso que você está estudando]*
-- 💬 Pergunte-me sobre: *[seus temas favoritos]*
-- 📫 Como me encontrar: *[seu e-mail ou LinkedIn]*
+- Graduanda em **Sistemas de Informação** na UFMS.
+- Foco e interesse em **Análise de Dados**, **Engenharia de Software** e **Banco de Dados**.
+- Experiência prática com **Python, Java, C, SQL** e modelagem de dados.
+- Background técnico em **Administração**, unindo visão de processos/negócios à tecnologia.
+- Atualmente aprimorando conceitos de **Arquitetura de Software**, **POO** e manipulação/análise de grandes volumes de dados.
+- Apaixonada por resolver problemas reais transformando dados em soluções práticas.
 
 ### 🛠️ Tecnologias
 
